@@ -1,0 +1,5 @@
+Log created: 2021-11-07T17:58:25.770135000Z
+Process ID:  55884 (0xda4c)
+Parent PID:  1 (0x1)
+Executable:  /Applications/VirtualBox.app/Contents/MacOS/VBoxHeadless
+AddRef: illegal refcnt=3221225469 state=2

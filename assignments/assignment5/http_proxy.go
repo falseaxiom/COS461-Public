@@ -1,8 +1,7 @@
 /*****************************************************************************
- * http_proxy.go                                                                 
- * Names: 
- * NetIds:
+ * http_proxy.go
+ * Names:  Monique Legaspi
+ * NetIds: mlegaspi
  *****************************************************************************/
 
- // TODO: implement an HTTP proxy
- 
+// TODO: implement an HTTP proxy

@@ -1,0 +1,5 @@
+Log created: 2021-11-07T17:58:09.221108000Z
+Process ID:  55844 (0xda24)
+Parent PID:  1 (0x1)
+Executable:  /Applications/VirtualBox.app/Contents/MacOS/VBoxSVC
+AddRef: illegal refcnt=3221225469 state=2
